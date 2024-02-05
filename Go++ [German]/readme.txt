@@ -9,4 +9,7 @@ Die "Efficient" Version verzichtet darauf und aktualisiert sich ausschließlich 
 
 The collected information is displayed in a notification. Swiping away the notification updates it. Clicking on the notification copies the information to the clipboard. This flow is compatible with the free version of the Automate app by LlamaLab. Please note that this flow is designed to work in German. If your language setting is different, you may need to adjust some words within the flow.
 
-If you encounter difficulties in finding the correct terminology, the Pokémon GO APK contains a file named ‘resources.arsc’. This file includes all the strings you might need for adjustments.)
+If you encounter difficulties in finding the correct terminology, the Pokémon GO APK contains a file named ‘resources.arsc’. This file includes all the strings you might need for adjustments.
+
+The difference between the two versions is that the "Live" version permanently updates the notification automatically as soon as a change is detected.
+The "Efficient" version does not do this and only updates itself manually by rejecting the notification.)
