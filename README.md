@@ -5,8 +5,7 @@ This repository hosts a variety of Automate flows tailored for Pokemon Go player
 This flow is designed to automate the process of opening and sending gifts in Pokemon Go. It is activated by pressing the volume down button. Once activated, the flow will automatically open and send gifts within the game. For this you need to be in the friend list and have at least send one gift with a preffered sticker. To stop the flow, simply press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run.
 
 **TL;DR:**
-This flow automates gift opening and sending in Pokémon Go, activated by the volume down button.
-
+This flow automates gift opening and sending in Pokémon Go, activated by the volume down button.<br/>
 **TL;DR:DE:**
 Dieser Flow automatisiert das Öffnen und Versenden von Geschenken in Pokémon Go, aktiviert durch die Leiser-Taste.
 
@@ -14,8 +13,7 @@ Dieser Flow automatisiert das Öffnen und Versenden von Geschenken in Pokémon G
 This flow is designed to automate the process of sending gifts in Pokemon Go. Similar to the first flow, it is activated by pressing the volume down button. For this you need to be in the friend list and have at least send one gift with a preffered sticker. Once activated, the flow will automatically send gifts within the game. To stop the flow, press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
 
 **TL;DR:**
-This flow automates gift sending in Pokémon Go, activated by the volume down button.
-
+This flow automates gift sending in Pokémon Go, activated by the volume down button.<br/>
 **TL;DR:DE:**
 Dieser Flow automatisiert das Versenden von Geschenken in Pokémon Go, aktiviert durch die Leiser-Taste.
 
@@ -23,8 +21,7 @@ Dieser Flow automatisiert das Versenden von Geschenken in Pokémon Go, aktiviert
 This flow is designed to work in conjunction with the CalcIV program to automate the process of scanning Pokemon and renaming them based on the nickname profile set in CalcIV. Like the other two flows, it is activated by pressing the volume down button. Once activated, the flow will automatically scan Pokemon and rename them within the game. Due to the block limit in the free version of Automate, this flow only provides an output at the start. To stop the flow, press the volume up button.
 
 **TL;DR:**
-This flow automates Pokémon scanning and renaming in conjunction with CalcIV, activated by the volume down button.
-
+This flow automates Pokémon scanning and renaming in conjunction with CalcIV, activated by the volume down button.<br/>
 **TL;DR:DE:**
 Dieser Flow automatisiert das Scannen und Umbenennen von Pokémon in Verbindung mit CalcIV, aktiviert durch die Leiser-Taste.
 
@@ -32,8 +29,7 @@ Dieser Flow automatisiert das Scannen und Umbenennen von Pokémon in Verbindung 
 This flow is designed to continually re-add you to the raid lobby before the countdown expires in Pokemon Go. The idea is to make your presence in the raid visible to others in the hope that they will join. Like the other flows, it is activated by pressing the volume down button. To stop the flow, press the volume up button.
 
 **TL;DR:**
-This flow re-adds you to the Pokémon Go raid lobby repeatedly before the countdown ends, aiming to signal your presence to others.
-
+This flow re-adds you to the Pokémon Go raid lobby repeatedly before the countdown ends, aiming to signal your presence to others.<br/>
 **TL;DR:DE**
 Dieser Flow fügt Sie wiederholt der Raid-Lobby in Pokémon Go hinzu, bevor der Countdown endet, mit dem Ziel, Ihre Anwesenheit anderen zu signalisieren.
 
