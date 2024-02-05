@@ -6,6 +6,7 @@ This flow is designed to automate the process of opening and sending gifts in Po
 
 **TL;DR:**
 This flow automates gift opening and sending in Pokémon Go, activated by the volume down button.
+
 **TL;DR:DE:**
 Dieser Flow automatisiert das Öffnen und Versenden von Geschenken in Pokémon Go, aktiviert durch die Leiser-Taste.
 
@@ -14,6 +15,7 @@ This flow is designed to automate the process of sending gifts in Pokemon Go. Si
 
 **TL;DR:**
 This flow automates gift sending in Pokémon Go, activated by the volume down button.
+
 **TL;DR:DE:**
 Dieser Flow automatisiert das Versenden von Geschenken in Pokémon Go, aktiviert durch die Leiser-Taste.
 
@@ -22,6 +24,7 @@ This flow is designed to work in conjunction with the CalcIV program to automate
 
 **TL;DR:**
 This flow automates Pokémon scanning and renaming in conjunction with CalcIV, activated by the volume down button.
+
 **TL;DR:DE:**
 Dieser Flow automatisiert das Scannen und Umbenennen von Pokémon in Verbindung mit CalcIV, aktiviert durch die Leiser-Taste.
 
@@ -30,6 +33,7 @@ This flow is designed to continually re-add you to the raid lobby before the cou
 
 **TL;DR:**
 This flow re-adds you to the Pokémon Go raid lobby repeatedly before the countdown ends, aiming to signal your presence to others.
+
 **TL;DR:DE**
 Dieser Flow fügt Sie wiederholt der Raid-Lobby in Pokémon Go hinzu, bevor der Countdown endet, mit dem Ziel, Ihre Anwesenheit anderen zu signalisieren.
 
