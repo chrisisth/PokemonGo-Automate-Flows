@@ -1,0 +1,3 @@
+Dieser Flow ist speziell für die Nutzung mit dem Pokémon GO Plus + konzipiert. Er ermöglicht eine detaillierte Nachverfolgung der Aktivitäten des Geräts. Der Flow zählt die von PokéStops oder Arenen erhaltenen Items und hält die Anzahl der gefangenen und geflüchteten Pokémon fest. Aus diesen Daten berechnet er die Fangrate und die durchschnittliche Anzahl der pro Stop erhaltenen Items.
+
+Die gesammelten Informationen werden in einer Benachrichtigung angezeigt. Durch das Wegwischen der Benachrichtigung wird diese aktualisiert. Ein Klick auf die Benachrichtigung kopiert die Informationen in die Zwischenablage. Dieser Flow ist mit der kostenlosen Version der Automate-App von LlamaLab kompatibel.
