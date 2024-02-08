@@ -1,4 +1,4 @@
-This flow is designed to automate the process of sending gifts in Pokemon Go. 
+This flow is designed to automate the process of sending or opening gifts in Pokemon Go. 
 It is activated by pressing the volume down button. Once activated, the flow will 
 automatically send gifts within the game. For this you need to be in the friend 
 list and have at least send one gift with a preffered sticker. To stop the flow, 
