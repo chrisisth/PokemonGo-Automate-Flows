@@ -1,4 +1,4 @@
-## Pokemon gift exchange
+## Open & send presents
 
 This flow is designed to automate the process of opening and sending gifts in Pokemon Go. Here's how it works:
 
