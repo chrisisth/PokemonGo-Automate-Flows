@@ -9,16 +9,25 @@ This flow automates gift opening and sending in Pokémon Go, activated by the vo
 **TL;DR:DE:**
 Dieser Flow automatisiert das Öffnen und Versenden von Geschenken in Pokémon Go, aktiviert durch die Leiser-Taste.
 
-## Send/Open presents:
-This flow is designed to automate the process of sending or opening gifts in Pokemon Go. Similar to the first flow, it is activated by pressing the volume down button. For this you need to be in the friend list and have at least send one gift with a preffered sticker. Once activated, the flow will automatically send gifts within the game. To stop the flow, press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
-These are a lot faster than the combined one.
+## Open presents:
+This flow is designed to automate the process of opening gifts in Pokemon Go. Similar to the first flow, it is activated by pressing the volume down button. Once activated, the flow will automatically open gifts within the game. To stop the flow, press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
+This is faster than the combined flow.
+
+**TL;DR:**
+This flow automates gift opening in Pokémon Go, activated by the volume down button.<br/>
+**TL;DR:DE:**
+Dieser Flow automatisiert das Öffnen von Geschenken in Pokémon Go, aktiviert durch die Leiser-Taste.
+
+## Send presents:
+This flow is designed to automate the process of sending gifts in Pokemon Go. Similar to the first flow, it is activated by pressing the volume down button. For this you need to be in the friend list and have at least sent one gift with a preferred sticker. Once activated, the flow will automatically send gifts within the game. To stop the flow, press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
+This is faster than the combined flow.
 
 **TL;DR:**
 This flow automates gift sending in Pokémon Go, activated by the volume down button.<br/>
 **TL;DR:DE:**
 Dieser Flow automatisiert das Versenden von Geschenken in Pokémon Go, aktiviert durch die Leiser-Taste.
 
-## PoGo CalcIV scan & rename V2:
+## CalcIV auto scanner:
 This flow is designed to work in conjunction with the CalcIV program to automate the process of scanning Pokemon and renaming them based on the nickname profile set in CalcIV. Like the other two flows, it is activated by pressing the volume down button. Once activated, the flow will automatically scan Pokemon and rename them within the game. Due to the block limit in the free version of Automate, this flow only provides an output at the start. To stop the flow, press the volume up button.
 
 **TL;DR:**
@@ -34,7 +43,15 @@ This flow re-adds you to the Pokémon Go raid lobby repeatedly before the countd
 **TL;DR:DE**
 Dieser Flow fügt Sie wiederholt der Raid-Lobby in Pokémon Go hinzu, bevor der Countdown endet, mit dem Ziel, Ihre Anwesenheit anderen zu signalisieren.
 
-## Go++ [German]:
+## Pokemon Berry Feeder:
+This flow is designed to automate the process of feeding a Pokemon in Pokemon Go. The idea is to make the feeding process easier and more efficient. Like the other flows, it is activated by pressing the volume down button. To stop the flow, press the volume up button.
+
+**TL;DR:**
+This flow feeds a selected Pokémon in Pokémon Go with 10 berries automatically, aiming to enhance your gaming experience.<br/>
+**TL;DR:DE**
+Dieser Flow füttert ein ausgewähltes Pokémon in Pokémon Go automatisch mit 10 Beeren.
+
+## Pokémon GO Plus + Tracker [German]:
 Dieser Flow ist speziell für die Nutzung mit dem Pokémon GO Plus + konzipiert. Er ermöglicht eine detaillierte Nachverfolgung der Aktivitäten des Geräts. Der Flow zählt die von PokéStops oder Arenen erhaltenen Items und hält die Anzahl der gefangenen und geflüchteten Pokémon fest. Aus diesen Daten berechnet er die Fangrate und die durchschnittliche Anzahl der pro Stop erhaltenen Items.
 
 Die gesammelten Informationen werden in einer Benachrichtigung angezeigt. Durch das Wegwischen der Benachrichtigung wird diese aktualisiert. Ein Klick auf die Benachrichtigung kopiert die Informationen in die Zwischenablage. Dieser Flow ist mit der kostenlosen Version der Automate-App von LlamaLab kompatibel.
