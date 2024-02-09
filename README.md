@@ -59,7 +59,7 @@ Die gesammelten Informationen werden in einer Benachrichtigung angezeigt. Durch 
 **TL;DR**
  Dieser Flow für Pokémon GO Plus + zählt und analysiert Items und Pokémon-Fänge. Informationen werden in einer Benachrichtigung angezeigt. 
 
-![Beispielbild](https://raw.githubusercontent.com/chrisisth/PokemonGo-Automate-Flows/main/Go++%20%5BGerman%5D/Beispiel.jpg "Beispielbild")
+![Beispielbild](https://github.com/chrisisth/PokemonGo-Automate-Flows/blob/031391f95275ed17d9f04f6e95f9bc246ae4282a/Pok%C3%A9mon%20GO%20Plus%20+%20Tracker%20%5BGerman%5D/Beispiel.jpg "Beispielbild")
 
 
 (This flow, designed for Pokémon GO Plus +, tracks device activities in detail. It counts items received from PokéStops or gyms, and keeps track of the number of Pokémon caught and fled. From this data, it calculates the catch rate and the average number of items received per stop.
