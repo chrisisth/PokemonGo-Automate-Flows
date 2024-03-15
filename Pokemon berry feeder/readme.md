@@ -6,7 +6,7 @@ This flow is designed to automate the process of feeding berries to a Pokemon in
 
 2. **Operation**: The flow will automatically feed 10 berries to the selected Pokemon.
 
-3. **End**: Once the process is complete, another notification will appear to signal the end of the operation.
+3. **End**: Once the process is complete, another notification will appear to signal the end of the operation. To stop the flow, you need to manually stop it in the Automate app.
 
 ### Features
 

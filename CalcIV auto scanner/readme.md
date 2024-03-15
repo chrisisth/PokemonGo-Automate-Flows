@@ -6,7 +6,7 @@ This flow is designed to work in conjunction with the CalcIV auto scanner to aut
 
 2. **Operation**: The flow will automatically scan Pokemon and rename them based on the nickname profile set in CalcIV within the game.
 
-3. **End**: This flow only provides an output at the start. 
+3. **End**: To stop the flow, you need to manually stop it in the Automate app.
 
 ### Features
 

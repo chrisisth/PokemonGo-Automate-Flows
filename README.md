@@ -35,6 +35,14 @@ This flow automates Pokémon scanning and renaming in conjunction with CalcIV, a
 **TL;DR:DE:**
 Dieser Flow automatisiert das Scannen und Umbenennen von Pokémon in Verbindung mit CalcIV, aktiviert durch die Leiser-Taste.
 
+## Trade Pokemon:
+This flow is designed to automate the process of trading Pokemon in Pokemon Go. You need to perform a trade manually first and set up a search string within the game. After the first trade, ensure the player profile is open on both devices. To start the flow, press the volume down button on both devices simultaneously. The flow will continue until you stop it by pressing the volume up button.
+
+**TL;DR:**
+This flow automates Pokemon trading in Pokémon Go, activated by the volume down button.<br/>
+**TL;DR:DE:**
+Dieser Flow automatisiert den Pokemon-Handel in Pokémon Go, aktiviert durch die Leiser-Taste.
+
 ## Endless raid lobby:
 This flow is designed to continually re-add you to the raid lobby before the countdown expires in Pokemon Go. The idea is to make your presence in the raid visible to others in the hope that they will join. Like the other flows, it is activated by pressing the volume down button. To stop the flow, press the volume up button.
 
