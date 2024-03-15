@@ -6,7 +6,7 @@ This flow is designed to automate the process of sending gifts in Pokemon Go. He
 
 2. **Operation**: The flow will automatically send gifts within the game.
 
-3. **End**: To stop the operation, simply press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run.
+3. **End**: To stop the operation, simply press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. To stop the flow, you need to manually stop it in the Automate app.
 
 ### Features
 
@@ -22,8 +22,8 @@ This flow is designed to automate the process of opening gifts in Pokemon Go. He
 1. **Start**: Press the volume down button to activate the flow.
 
 2. **Operation**: The flow will automatically open gifts within the game.
-
-3. **End**: To stop the operation, simply press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run.
+ 
+3. **End**: To stop the operation, simply press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. To stop the flow, you need to manually stop it in the Automate app.
 
 ### Features
 
