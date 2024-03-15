@@ -6,7 +6,7 @@ This flow is designed to continually re-add you to the raid lobby in Pokemon Go 
 
 2. **Operation**: The flow will automatically re-add you to the raid lobby before the countdown expires.
 
-3. **End**: To stop the flow, you need to manually stop it in the Automate app.
+3. **End**: You can cancel the flow at any time by pressing the volume up button. To stop the flow, you need to manually stop it in the Automate app.
 
 ### Features
 

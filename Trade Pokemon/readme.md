@@ -8,7 +8,7 @@ This flow is designed to automate the process of trading Pokemon in Pokemon Go. 
 
 3. **Operation**: The flow will automatically perform trades based on the initial setup. It will continue to trade until you stop it.
 
-4. **End**: To stop the flow, you need to manually stop it in the Automate app.
+4. **End**: You can cancel the flow at any time by pressing the volume up button. To stop the flow, you need to manually stop it in the Automate app.
 
 ### Features
 
