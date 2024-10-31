@@ -19,14 +19,20 @@ jobs:
       - name: Zip .flo files
         run: zip -r flo_files.zip **/*.flo
 
+      - name: Create Tag
+        id: create_tag
+        run: |
+          TAG_NAME=$(date +'%Y%m%d%H%M%S')
+          echo "TAG_NAME=${TAG_NAME}" >> $GITHUB_ENV
+
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
+          tag_name: ${{ env.TAG_NAME }}
+          release_name: Release ${{ env.TAG_NAME }}
           draft: false
           prerelease: false
 
