@@ -8,6 +8,10 @@ This flow is designed to work in conjunction with the CalcIV auto scanner to aut
 
 3. **End**: You can cancel the flow at any time by pressing the volume up button. To stop the flow, you need to manually stop it in the Automate app.
 
+## CalcIV fast auto scanner
+
+Please use the Automate input method at start.
+
 ### Features
 
 - **Cancel**: You can cancel the flow at any time by pressing the volume up button.
