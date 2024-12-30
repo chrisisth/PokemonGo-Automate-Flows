@@ -10,7 +10,7 @@ This flow automates gift opening and sending in Pokémon Go, activated by the vo
 Dieser Flow automatisiert das Öffnen und Versenden von Geschenken in Pokémon Go, aktiviert durch die Leiser-Taste.
 
 ## Open presents:
-This flow is designed to automate the process of opening gifts in Pokemon Go. Similar to the first flow, it is activated by pressing the volume down button. Once activated, the flow will automatically open gifts within the game. To stop the flow, press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
+This flow is designed to automate the process of opening gifts in Pokemon Go. Similar to the first flow, it is activated by pressing the volume down button within the trainer profile screen where you have to tap to open the present.. Once activated, the flow will automatically open gifts within the game. To stop the flow, press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
 This is faster than the combined flow.
 
 **TL;DR:**
