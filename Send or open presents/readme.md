@@ -15,7 +15,7 @@ This flow is designed to automate the process of sending gifts in Pokemon Go. He
 
 This flow is designed to work with the free version of the Automate app by LlamaLab.
 
-# Pokemon Gift Opener (Reliable Version)
+## Pokemon Gift Opener (Reliable Version)
 
 This flow is designed to automate the process of opening gifts in Pokemon Go with a focus on reliability, even at the cost of efficiency. Here's how it works:
 
@@ -25,7 +25,7 @@ This flow is designed to automate the process of opening gifts in Pokemon Go wit
 
 3. **End**: To stop the operation, simply press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. To stop the flow, you need to manually stop it in the Automate app.
 
-## Features
+### Features
 - **Cancel:** You can cancel the flow at any time by pressing the volume up button.
 - **Restart:** If you wish to restart the flow, simply press the volume down button again.
 
