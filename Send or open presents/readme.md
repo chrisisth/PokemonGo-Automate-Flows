@@ -19,14 +19,11 @@ This flow is designed to work with the free version of the Automate app by Llama
 
 This flow is designed to automate the process of opening gifts in Pokemon Go with a focus on reliability, even at the cost of efficiency. Here's how it works:
 
-## Start
-Press the volume down button to activate the flow within the trainer profile screen where you have to tap to open the present.
+1. **Start**: Press the volume down button to activate the flow within the trainer profile screen where you have to tap to open the present.
+   
+3. **Operation**: The flow will automatically open gifts within the game, ensuring each step is completed accurately, though it may take longer than other flows.
 
-## Operation
-The flow will automatically open gifts within the game, ensuring each step is completed accurately, though it may take longer than other flows.
-
-## End
-To stop the operation, simply press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. To stop the flow, you need to manually stop it in the Automate app.
+3. **End**: To stop the operation, simply press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. To stop the flow, you need to manually stop it in the Automate app.
 
 ## Features
 - **Cancel:** You can cancel the flow at any time by pressing the volume up button.
