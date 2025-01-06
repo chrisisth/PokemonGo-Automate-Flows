@@ -15,7 +15,7 @@ This flow is designed to automate the process of sending gifts in Pokemon Go. He
 
 This flow is designed to work with the free version of the Automate app by LlamaLab.
 
-## Pokemon Gift Opener (Reliable Version)
+## Pokemon Gift Opener (slownsteady version)
 
 This flow is designed to automate the process of opening gifts in Pokemon Go with a focus on reliability, at the cost of efficiency/speed. Here's how it works:
 
