@@ -17,7 +17,7 @@ This flow is designed to work with the free version of the Automate app by Llama
 
 ## Pokemon Gift Opener (Reliable Version)
 
-This flow is designed to automate the process of opening gifts in Pokemon Go with a focus on reliability, even at the cost of efficiency. Here's how it works:
+This flow is designed to automate the process of opening gifts in Pokemon Go with a focus on reliability, at the cost of efficiency/speed. Here's how it works:
 
 1. **Start**: Press the volume down button to activate the flow within the trainer profile screen where you have to tap to open the present.
    
