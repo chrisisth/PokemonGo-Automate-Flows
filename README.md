@@ -47,9 +47,9 @@ Dieser Flow fügt Sie wiederholt der Raid-Lobby in Pokémon Go hinzu, bevor der 
 This flow is designed to automate the process of feeding a Pokemon in Pokemon Go. The idea is to make the feeding process easier and more efficient. Like the other flows, it is activated by pressing the volume down button. To stop the flow, press the volume up button.
 
 **TL;DR:**
-This flow feeds a selected Pokémon in Pokémon Go with 10 berries automatically, aiming to enhance your gaming experience.<br/>
+This flow feeds a selected Pokémon in Pokémon Go with berries automatically.<br/>
 **TL;DR:DE**
-Dieser Flow füttert ein ausgewähltes Pokémon in Pokémon Go automatisch mit 10 Beeren.
+Dieser Flow füttert ein ausgewähltes Pokémon in Pokémon Go automatisch mit Beeren.
 
 ## Pokémon GO Plus + Tracker [German]:
 Dieser Flow ist speziell für die Nutzung mit dem Pokémon GO Plus + konzipiert. Er ermöglicht eine detaillierte Nachverfolgung der Aktivitäten des Geräts. Der Flow zählt die von PokéStops oder Arenen erhaltenen Items und hält die Anzahl der gefangenen und geflüchteten Pokémon fest. Aus diesen Daten berechnet er die Fangrate und die durchschnittliche Anzahl der pro Stop erhaltenen Items.
