@@ -1,6 +1,8 @@
 # PokemonGo-Automate-Flows
 This repository hosts a variety of Automate flows tailored for Pokemon Go players. Built with LlamaLab’s Automate, these flows offer automation solutions for common in-game tasks. All flows are designed to work with the free version of Automate. It’s recommended to disable logging while using these flows, as the logs can become quite lengthy over time.
 
+# If you are missing things, open a discussion. I also recommend https://github.com/Nain57/Smart-AutoClicker its easier and better for these tasks! 
+
 ## Open presents:
 This flow is designed to automate the process of opening gifts in Pokemon Go. Similar to the first flow, it is activated by pressing the volume down button within the trainer profile screen where you have to tap to open the present.. Once activated, the flow will automatically open gifts within the game. To stop the flow, press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
 This is faster than the combined flow.
