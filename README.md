@@ -4,7 +4,7 @@ This repository hosts a variety of Automate flows tailored for Pokemon Go player
 # If you are missing things, open a discussion. I also recommend https://github.com/Nain57/Smart-AutoClicker if you want to automate yourself.
 
 ## Open presents:
-This flow is designed to automate the process of opening gifts in Pokemon Go. Similar to the first flow, it is activated by pressing the volume down button within the trainer profile screen where you have to tap to open the present.. Once activated, the flow will automatically open gifts within the game. To stop the flow, press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
+This flow is designed to automate the process of opening gifts in Pokemon Go. It is activated by pressing the volume down button within the trainer profile screen where you have to tap to open the present.. Once activated, the flow will automatically open gifts within the game. To stop the flow, press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
 This is faster than the combined flow.
 
 **TL;DR:**
@@ -13,7 +13,7 @@ This flow automates gift opening in Pokémon Go, activated by the volume down bu
 Dieser Flow automatisiert das Öffnen von Geschenken in Pokémon Go, aktiviert durch die Leiser-Taste.
 
 ## Send presents:
-This flow is designed to automate the process of sending gifts in Pokemon Go. Similar to the first flow, it is activated by pressing the volume down button. For this you need to be in the friend list and have at least sent one gift with a preferred sticker. Once activated, the flow will automatically send gifts within the game. To stop the flow, press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
+This flow is designed to automate the process of sending gifts in Pokemon Go. It is activated by pressing the volume down button. For this you need to be in the friend list and have at least sent one gift with a preferred sticker. Once activated, the flow will automatically send gifts within the game. To stop the flow, press the volume up button. Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
 This is faster than the combined flow.
 
 **TL;DR:**
