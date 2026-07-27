@@ -1,5 +1,3 @@
-## Pokémon GO Plus + Tracker
-
 1. **Start**: Der Flow erkennt automatisch, wenn das Pokémon GO Plus + Gerät verbunden ist.
 
 2. **Operation**: Verfolgt die Go++ im Detail. Er zählt die von PokéStops oder Arenen erhaltenen Items und hält die Anzahl der gefangenen und geflüchteten Pokémon fest.

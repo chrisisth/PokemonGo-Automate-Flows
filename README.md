@@ -58,11 +58,20 @@ This flow is designed to automate the process of feeding Pokémon in Gyms.
 Open the Gym defender view and tap on a Pokémon. Start the flow and let it feed 10 berries. After that you can just tap the next pokemon while its running.
 It is activated by pressing the volume down button. To stop the flow, press the volume up button.
 
-
 **TL;DR:**
 This flow feeds Gym defenders with berries semi automatically.<br/>
 **TL;DR:DE**
 Dieser Flow füttert ein Arena Verteidiger in Pokémon Go semiautomatisch mit Beeren.
+
+## Candela AutoBattle:
+This flow does battles agains Candela until you stop. 
+Press the volume down button on GBL summary screen to start the loop.
+To stop the flow, press the volume up button.
+
+**TL;DR:**
+This flow does battles agains Candela until you stop. <br/>
+**TL;DR:DE**
+Dieser Flow Kämpft wiederholt gegen Candela.
 
 ## Pokémon GO Plus + Tracker [German]:
 Dieser Flow ist speziell für die Nutzung mit dem Pokémon GO Plus + konzipiert. Der Flow zählt die von PokéStops oder Arenen erhaltenen Items und hält die Anzahl der gefangenen und geflüchteten Pokémon fest. 

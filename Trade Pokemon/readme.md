@@ -1,5 +1,3 @@
-## Pokemon Trade Automation
-
 This flow is designed to automate the process of trading Pokemon in Pokemon Go. Here's how it works:
 
 1. **Setup**: Perform a trade manually in Pokemon Go, setting up a search string within the game. After the first trade, ensure the player profile (where the trade button is visible) is open on both devices.

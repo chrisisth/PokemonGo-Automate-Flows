@@ -1,5 +1,3 @@
-## Endless raid lobby:
-
 This flow is designed to continually re-add you to the raid lobby before the countdown expires.
 The idea is to make your presence in the raid visible to others in the hope that they will join.
 

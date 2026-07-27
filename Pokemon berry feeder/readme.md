@@ -1,5 +1,3 @@
-## Pokemon berry feeder
-
 This flow is designed to automate the process of feeding Pokémon in Gyms
 
 1. **Start**: Select a defending Pokemon in an gym and press the volume down button to start the flow. A notification will appear to confirm the start of the process.
