@@ -72,6 +72,7 @@ Die gesammelten Informationen werden in einer Benachrichtigung angezeigt. Durch 
 
 **TL;DR:DE**
 Dieser Flow für Pokémon GO Plus + zählt und analysiert Items und Pokémon-Fänge. Informationen werden in einer Benachrichtigung angezeigt. 
+
 **TL;DR:**
 Counts items from stops aswell as encountered and caught pokemon. Calcutates rates. Does not exsist for languages other than german, but feel free to open a feature request.
 
