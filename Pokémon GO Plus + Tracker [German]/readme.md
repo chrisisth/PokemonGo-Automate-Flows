@@ -1,10 +1,8 @@
 ## Pokémon GO Plus + Tracker
 
-Dieser Flow ist speziell für die Nutzung mit dem Pokémon GO Plus + konzipiert. So funktioniert es:
+1. **Start**: Der Flow erkennt automatisch, wenn das Pokémon GO Plus + Gerät verbunden ist.
 
-1. **Start**: Der Flow startet automatisch, wenn das Pokémon GO Plus + Gerät verbunden ist.
-
-2. **Operation**: Der Flow verfolgt die Aktivitäten des Geräts im Detail. Er zählt die von PokéStops oder Arenen erhaltenen Items und hält die Anzahl der gefangenen und geflüchteten Pokémon fest.
+2. **Operation**: Verfolgt die Go++ im Detail. Er zählt die von PokéStops oder Arenen erhaltenen Items und hält die Anzahl der gefangenen und geflüchteten Pokémon fest.
 Aus diesen Daten berechnet er die Fangrate und die durchschnittliche Anzahl der pro Stop erhaltenen Items.
 
 3. **Ende**: Der Flow endet automatisch, wenn das Pokémon GO Plus + Gerät getrennt wird. Um den Flow zu stoppen, muss er manuell in der Automate-App gestoppt werden.
