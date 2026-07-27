@@ -69,6 +69,7 @@ Dieser Flow ist speziell für die Nutzung mit dem Pokémon GO Plus + konzipiert.
 Aus diesen Daten berechnet er die Fangrate und die durchschnittliche Anzahl der pro Stop erhaltenen Items.
 
 Die gesammelten Informationen werden in einer Benachrichtigung angezeigt. Durch das Wegwischen der Benachrichtigung wird diese aktualisiert. Ein Klick auf die Benachrichtigung kopiert die Informationen in die Zwischenablage.
+
 **TL;DR:DE**
 Dieser Flow für Pokémon GO Plus + zählt und analysiert Items und Pokémon-Fänge. Informationen werden in einer Benachrichtigung angezeigt. 
 **TL;DR:**
