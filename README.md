@@ -13,8 +13,8 @@ This flow opens gifts automaticly, activated by the volume down button.<br/>
 **TL;DR:DE:**
 Automatisiert das Öffnen von Geschenken, aktiviert durch die Leiser-Taste.
 
-## Send presents:
-For this you need to be in the friend list and have at least sent one gift with a preferred sticker.
+## Send presents (w/o stickers):
+For this you need to be in the the friends trainer profile screen, where you can send presents. Have at least sent one gift with a preferred sticker.
 Once activated, the flow will automatically send gifts within the game. To stop the flow, press the volume up button.
 Upon stopping, the flow will provide a brief summary indicating the number of times it has run. 
 
