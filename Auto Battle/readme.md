@@ -17,5 +17,6 @@ This flow is designed to work with the free version of the Automate app by Llama
 
 
 
-Extra: Edit "Initial value" here if you want to have a different value preselected in the seconds dialog.
+### Extra
+Edit "Initial value" here if you want to have a different value preselected in the seconds dialog.
 <img width="2449" height="2560" alt="photo_2026-07-27_11-11-59" src="https://github.com/user-attachments/assets/8d65f1b7-6682-45c3-be02-54122b6eb1ff" />
