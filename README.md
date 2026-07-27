@@ -63,7 +63,7 @@ This flow feeds Gym defenders with berries semi automatically.<br/>
 **TL;DR:DE**
 Dieser Flow füttert ein Arena Verteidiger in Pokémon Go semiautomatisch mit Beeren.
 
-## Candela AutoBattle:
+## Candela AutoBattle: (thx @Eutherin & @cjshrader)
 This flow does battles agains Candela until you stop. 
 Press the volume down button on GBL summary screen to start the loop.
 To stop the flow, press the volume up button.
