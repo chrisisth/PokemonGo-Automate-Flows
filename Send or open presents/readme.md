@@ -31,3 +31,9 @@ How it works:
 - **Restart**: If you wish to restart the flow, simply press the volume down button again.
 
 This flow is designed to work with the free version of the Automate app by LlamaLab.
+
+Tipp: 
+Change the first argument "Content text" ,of this block, to have your favorite search string copied into the clipboard at start.
+
+Block:
+<img width="1718" height="2560" alt="grafik" src="https://github.com/user-attachments/assets/3d126dc5-4ece-4897-a109-8a8893716387" />
